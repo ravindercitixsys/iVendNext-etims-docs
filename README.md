@@ -13,16 +13,16 @@ This integration leverages **Slade 360 Advantage**, a trusted third-party soluti
 
 ## Key Sections 📚
 
-- #### [Architectural Overview](kenya_compliance_via_slade/docs/architecture.md)
+- #### [Architectural Overview](./architecture.md)
 
-- #### [Setup & Configuration](kenya_compliance_via_slade/docs/setup_configuration.md)
+- #### [Setup & Configuration](./setup_configuration.md)
 
-- #### [Key Features](kenya_compliance_via_slade/docs/features.md)
+- #### [Key Features](./features.md)
 
-- #### [Key DocTypes](kenya_compliance_via_slade/docs/doctypes.md)
+- #### [Key DocTypes](./doctypes.md)
 
-- #### [Customisations](kenya_compliance_via_slade/docs/customisations.md)
+- #### [Customisations](./customisations.md)
 
-- #### [Dashboard & Reports](kenya_compliance_via_slade/docs/dashboard_reports.md)
+- #### [Dashboard & Reports](./dashboard_reports.md)
 
 For a more comprehensive guide and details on the integration, visit our [Complete Guide](https://github.com/navariltd/kenya-compliance-via-slade/wiki).
